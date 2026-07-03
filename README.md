@@ -21,5 +21,5 @@ Proyecto desarrollado en Google Colab utilizando Excel, PowerBI y Python para an
 
 ## Archivo principal
 
-* `proyecto.ipynb`
+* `ProyectoFinal.ipynb`
 
